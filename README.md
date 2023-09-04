@@ -1,0 +1,9 @@
+--class_cpu_info #cpu推理，分类
+--deeplab        #mlu训练，语义分割
+--deeplab_info   #cpu推理，语义分割
+--resnet_train   #mlu训练  分类
+--yolov5_mlu     #mlu训练  目标检测
+--yolov5-info    #cpu推理  目标检测
+--yolov57SEG     #mlu训练  实例分割
+--yolov57SEG_info  #cpu推理   实例分割
+--ChatGLM2-6B     #MLU可训，需要在38服务器上用mlu3后缀镜像操作  GLM2
