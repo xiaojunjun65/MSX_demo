@@ -1,0 +1,8 @@
+#!/bin/bash
+ls $DATA_PATH
+echo $MODEL_URI
+echo $DATA_PATH
+echo "guojun"
+echo $WORKFLOW_NAME
+echo "ok ok"
+cnmon
